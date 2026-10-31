@@ -122,7 +122,7 @@ cd ai-sales-analyst
 ### Step 2 — Create a Python environment
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 ```
 
 Activate it:
