@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+.env.*
+!.env.example
+sales.db
+.pytest_cache/
+.streamlit/
+*.db
+
+# Node / Vite frontend
+node_modules/
+frontend-react/node_modules/
+frontend-react/dist/
+frontend-react/.env
+frontend-react/.env.*
+!frontend-react/.env.example
